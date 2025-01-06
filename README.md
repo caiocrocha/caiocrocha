@@ -1,4 +1,4 @@
-## Hi! I'm Caio, a computational engineering student keen to learn new technologies!
+## Hi! I'm Caio, a Computational Engineer studying AI and Data Science keen to learn new technologies!
 <div align="center">
   <a href="https://github.com/caiocrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,8 +8,6 @@
   <img align="center" alt="Caio-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
   <img align="center" alt="Caio-Cpp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" alt="Caio-Bash" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">
-  <img align="center" alt="Caio-Javascript" height="30" width="22.5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png">
-  <img align="center" alt="Caio-HTML" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
 </div>
   
   ##
