@@ -13,7 +13,7 @@ I build things around AI, machine learning systems, and developer tooling.
 
 Click to play a retro snake game hosted from my profile.
 
-[![Play Snake](https://img.shields.io/badge/🐍%20Play-Snake-111?style=for-the-badge\&logoColor=white)](https://YOUR_USERNAME.github.io/snake-game)
+[![Play Snake](https://img.shields.io/badge/🐍%20Play-Snake-111?style=for-the-badge\&logoColor=white)](https://caiocrocha.github.io/snake-game)
 
 
 ## Tech
