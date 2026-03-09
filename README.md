@@ -9,13 +9,13 @@ I build things around AI, machine learning systems, and developer tooling.
 * LLM systems
 * Data pipelines
 
-## Play Snake
+## Skills
 
-Click to play a retro snake game hosted from my profile.
+Python • PyTorch • LLMs • APIs • Data Systems • Automation
+
 
 [![Play Snake](https://img.shields.io/badge/🐍%20Play-Snake-111?style=for-the-badge\&logoColor=white)](https://caiocrocha.github.io/snake-game)
 
 
-## Tech
+Click to play a retro snake game hosted from my profile.
 
-Python • PyTorch • LLMs • APIs • Data Systems • Automation
