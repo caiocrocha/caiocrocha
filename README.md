@@ -1,6 +1,6 @@
 # Hi, I'm Caio
 
-I build things around AI, machine learning systems, and developer tooling.
+I build AI and machine learning systems.
 
 **Focus**
 
