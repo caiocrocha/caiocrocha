@@ -1,21 +1,18 @@
 # Hi, I'm Caio
 
-I build AI and machine learning systems.
+I'm an AI/ML engineer (Paris Dauphine, ENS, Écoles de Mines) interested in building scalable AI software. I focus on problems, means, and objectives* rather than just tech stack. I have worked across building ML systems for healthcare, educational technologies, generative AI and AR/VR for industry.
 
-**Focus**
+*~Maths, Statistics, and ML~. Pun intended :)
 
-* Applied ML
-* NLP & Speech
-* LLM systems
-* Data pipelines
+## 🐍 My portfolio lives inside a Snake game
+
+Instead of a boring list of projects, I built a Snake game where each apple you eat reveals one of my repos.
+The harder you play, the more you discover.
+
+[![gameplay demo](./demo.gif)](https://caiocrocha.github.io/snake-game)
+
+▶ **[Play it here](https://caiocrocha.github.io/snake-game)** — works on mobile too.
 
 ## Skills
 
-Python • PyTorch • LLMs • APIs • Data Systems • Automation
-
-
-[![Play Snake](https://img.shields.io/badge/🐍%20Play-Snake-111?style=for-the-badge\&logoColor=white)](https://caiocrocha.github.io/snake-game)
-
-
-Click to play a retro snake game hosted from my profile.
-
+Python • C++ • PyTorch • TensorFlow • LLMs • APIs • NLP • ASR • Computer Vision • Deep Learning • AWS • Google Cloud
